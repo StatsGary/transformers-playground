@@ -134,3 +134,4 @@ xlm-roberta-base-finetuned-panx-de
 data/
 data/train/
 data/test/
+questionanswering-distilbert-squad
