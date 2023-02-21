@@ -130,9 +130,5 @@ dmypy.json
 xlm-roberta-base-finetuned-panx-de
 xlm-roberta-base-finetuned-panx-de
 xlm-roberta-base-finetuned-panx-de
-
-data/
-data/train/
-data/test/
 questionanswering-distilbert-squad
 train_args.py
